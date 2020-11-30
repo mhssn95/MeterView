@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="meterRed">#b64540</color>
+    <color name="meterOrange">#f6bb18</color>
+    <color name="meterGreen">#00904f</color>
+</resources>
