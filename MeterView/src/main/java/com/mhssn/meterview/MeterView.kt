@@ -1,4 +1,4 @@
-package com.mhssn.meterView
+package com.mhssn.meterview
 
 import android.animation.ValueAnimator
 import android.content.Context

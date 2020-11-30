@@ -2,6 +2,7 @@ package com.mhssn.meterView
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mhssn.meterview.MeterView
 import kotlinx.coroutines.*
 import kotlin.random.Random
 
